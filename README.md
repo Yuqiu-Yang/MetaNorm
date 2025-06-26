@@ -136,25 +136,24 @@ Random seed, for reproducibility. If running multiple chains to check convergenc
 For more details, please refer to our [online documentation](https://metanorm.readthedocs.io/en/latest/)
 
 ## Citation :book:
-We have uploaded our article to bioRxiv. To cite
+The artical is currently published at Bioinformatics. To cite
 
 ```
-@article {
-    Barth2023.11.17.567577,
-	author = {Jackson P Barth and Yuqiu Yang and Guanghua Xiao and Xinlei Wang},
-	title = {MetaNorm: Incorporating Meta-analytic Priors into Normalization of NanoString nCounter Data},
-	elocation-id = {2023.11.17.567577},
-	year = {2023},
-	doi = {10.1101/2023.11.17.567577},
-	publisher = {Cold Spring Harbor Laboratory},
-	URL = {https://www.biorxiv.org/content/early/2023/11/21/2023.11.17.567577},
-	eprint = {https://www.biorxiv.org/content/early/2023/11/21/2023.11.17.567577.full.pdf},
-	journal = {bioRxiv}
+@article{10.1093/bioinformatics/btae024,
+    author = {Barth, Jackson and Yang, Yuqiu and Xiao, Guanghua and Wang, Xinlei},
+    title = {MetaNorm: incorporating meta-analytic priors into normalization of NanoString nCounter data},
+    journal = {Bioinformatics},
+    volume = {40},
+    number = {1},
+    pages = {btae024},
+    year = {2024},
+    month = {01},
+    issn = {1367-4811},
+    doi = {10.1093/bioinformatics/btae024},
+    url = {https://doi.org/10.1093/bioinformatics/btae024},
+    eprint = {https://academic.oup.com/bioinformatics/article-pdf/40/1/btae024/56466495/btae024.pdf},
 }
 ```
-
-
-The artical is currently under review at Bioinformatics.
 
 ## Contact :mailbox: 
 If you have any questions or suggestions, feel free to contact us :smiley:
